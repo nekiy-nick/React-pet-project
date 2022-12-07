@@ -1,0 +1,13 @@
+.post {
+	background-color: ghostwhite;
+}
+
+.description {
+	color: tomato;
+}
+
+.title {
+	font-weight: 700;
+
+	font-size: 30px;
+}
