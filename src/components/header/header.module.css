@@ -1,0 +1,12 @@
+.header {
+	background-color: coral;
+	grid-area: A;
+	border: 4px solid gold;
+}
+
+.header__logo {
+	width: 100px;
+	height: 100px;
+
+	background-color: wheat;
+}
